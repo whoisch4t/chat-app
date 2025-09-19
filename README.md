@@ -66,4 +66,4 @@ npm run dev
 ---
 
 ## Lisans
-MIT License © 2025 [Senin İsmin]  
+MIT License © 2025  
